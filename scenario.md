@@ -1,5 +1,7 @@
 <div style="text-align: right;">
+    <div style="text-align: right;", color:"blue">
 سناریوی سایت نوبت‌دهی مطب
+    </div>
 
 عنوان پروژه:
 سایت نوبت‌دهی آنلاین مطب
